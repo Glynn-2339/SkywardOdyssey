@@ -5,6 +5,9 @@ The goal is to explore different locations and overcome various obstacles set in
 **Tools**
 
 IDE – Pycharm and Visual Studio Code
+
 JavaScript
+
 HTML5
+
 WebGl
